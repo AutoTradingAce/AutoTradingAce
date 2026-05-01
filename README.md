@@ -4,11 +4,11 @@
 #### - Alireza Mohebbi
 
 
-👋 Greetings, and welcome to my profile. I am Alireza Mohebbi, a 21-year-old aspiring data analyst with a background in radiography. My objective is to bridge the fields of medical imaging and data science to drive innovation in healthcare analytics.
+👋 Greetings, and welcome to my profile. I am Alireza Mohebbi, a 22-year-old aspiring data analyst with a background in radiography. My objective is to bridge the fields of medical imaging and data science to drive innovation in healthcare analytics.
 
 ## 🎓 Academic Background
 - **📚 Bachelor's Degree in Radiography**  
-  Kashan University of Medical Science (Expected Graduation: February 2026)
+  Kashan University of Medical Science (Expected Graduation: June 2026)
 - **📊 Google Data Analytics Certificate**: [Certificate Link](https://1drv.ms/b/c/32ad82fef2c1dc75/EcWeWZ13arpLty7ScZVHxbEBJwZM59weWRJlo7LxW5dvBg?e=gwRuFF)
 
 ## 💻 Technical Skills
@@ -34,7 +34,7 @@ I am currently honing my skills in data analysis, with a particular interest in 
 ## 📡 Contact Information
 - **🔗 LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/alrza)
 - **💬 Telegram:** [Telegram Profile](https://t.me/AlrzA_2003)
-- **✉️ Email:** [serbede.s34@gmail.com](mailto:serbede.s34@gmail.com)
+- **✉️ Email:** [alrza.mohebbi@gmail.com](mailto:alrza.mohebbi@gmail.com)
 
 I am always open to 🤝 collaborations and discussions on data science applications in healthcare. Let’s connect and explore new possibilities in the world of data-driven insights! 🌍✨
 
