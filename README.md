@@ -4,7 +4,7 @@
 #### - Alireza Mohebbi
 
 
-👋 Greetings, and welcome to my profile. I am Alireza Mohebbi, a 22-year-old aspiring data analyst with a background in radiography. My objective is to bridge the fields of medical imaging and data science to drive innovation in healthcare analytics.
+👋 Greetings, and welcome to my profile. I am Alireza Mohebbi, a 23-year-old aspiring data analyst with a background in radiography. My objective is to bridge the fields of medical imaging and data science to drive innovation in healthcare analytics.
 
 ## 🎓 Academic Background
 - **📚 Bachelor's Degree in Radiography**  
