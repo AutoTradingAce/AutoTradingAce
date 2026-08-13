@@ -8,7 +8,7 @@
 
 ## 🎓 Academic Background
 - **📚 Bachelor's Degree in Radiography**  
-  Kashan University of Medical Science (Expected Graduation: June 2026)
+  Kashan University of Medical Science
 - **📊 Google Data Analytics Certificate**: [Certificate Link](https://1drv.ms/b/c/32ad82fef2c1dc75/EcWeWZ13arpLty7ScZVHxbEBJwZM59weWRJlo7LxW5dvBg?e=gwRuFF)
 
 ## 💻 Technical Skills
